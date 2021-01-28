@@ -5,6 +5,8 @@ This repository hosts a Sage implementation of the key recovery attack against t
 
 It uses the [Sage implementation of the signature scheme provided by the authors](https://github.com/zhli271828/rand_code_sign).
 
+This is a joint work with M. Baldi, E. Persichetti, and P. Santini.
+
 ## Running the attack
 
 Li *et al.* proposed two sets of parameters targeting 80 and 128 bits of classical security (see Table of Section 6.7 of [LXY20]).
