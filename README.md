@@ -76,7 +76,7 @@ Candidate secret key matches actual secret key.
 
 ## Technical details and reference
 
-The technical details about the cryptanalysis will be soon provided in a complete paper. 
+The technical details about the cryptanalysis are available in [ePrint 2021/134](https://eprint.iacr.org/2021/134). 
 
 [LXY20] Li, Z., Xing, C. and Yeo, S. L., *A New Code Based Signature Scheme without Trapdoors*. [ePrint2020/1250](https://eprint.iacr.org/2020/1250)
 
